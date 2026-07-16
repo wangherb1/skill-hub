@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Generated outputs and local scratch files.
+output/
+outputs/
+runs/
+tmp/
+*.log
+
+# Local environment files.
+.env
+.env.*
+!.env.example
+
+# External repositories used for audit/intake should be referenced, not vendored.
+vendor_repos/

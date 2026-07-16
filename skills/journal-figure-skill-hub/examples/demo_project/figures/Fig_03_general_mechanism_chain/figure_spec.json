@@ -1,0 +1,67 @@
+{
+  "figure_id": "Fig_03",
+  "short_name": "general_mechanism_chain",
+  "paper_context": {
+    "title": "",
+    "discipline": "general",
+    "section": "Introduction",
+    "target_journal": "",
+    "core_claim": ""
+  },
+  "figure_type": "mechanism_diagram",
+  "scientific_purpose": "Explain a domain-neutral cause-mechanism-observable chain.",
+  "reader_takeaway_5s": "Explain a domain-neutral cause-mechanism-observable chain.",
+  "panels": [
+    {
+      "panel_id": "a",
+      "title": "",
+      "message": "Explain a domain-neutral cause-mechanism-observable chain.",
+      "input_sources": [],
+      "generation_route": "svg",
+      "editable_layers": [
+        "text",
+        "arrows",
+        "shapes"
+      ],
+      "output_files": [
+        "final/Fig_03_general_mechanism_chain.svg",
+        "final/Fig_03_general_mechanism_chain.pdf",
+        "final/Fig_03_general_mechanism_chain.png"
+      ]
+    }
+  ],
+  "data_sources": [],
+  "visual_style": {
+    "width_mm": 180,
+    "height_mm": null,
+    "font_family": "Arial",
+    "font_size_pt": 8,
+    "line_width_pt": 1.0,
+    "color_palette": "colorblind_safe"
+  },
+  "export_targets": [
+    "pdf",
+    "svg",
+    "png_600dpi",
+    "pptx"
+  ],
+  "journal_constraints": {
+    "single_or_double_column": "double",
+    "requires_tiff": false,
+    "requires_eps": false,
+    "max_file_size_mb": null
+  },
+  "ai_usage": {
+    "used_ai_image_generation": false,
+    "usage_scope": "none",
+    "requires_disclosure": false
+  },
+  "qa_requirements": [
+    "resolution_check",
+    "font_check",
+    "axis_label_check",
+    "unit_check",
+    "editable_layer_check",
+    "source_traceability_check"
+  ]
+}

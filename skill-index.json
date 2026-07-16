@@ -1,0 +1,24 @@
+{
+  "repository": "wangherb1/skill-hub",
+  "local_codex_skills_root": "C:\\Users\\wang_\\.codex\\skills",
+  "skills": [
+    {
+      "name": "journal-figure-skill-hub",
+      "path": "skills/journal-figure-skill-hub",
+      "source": "consolidated from wangherb1/journal-figure-skill-hub and E:\\Codex\\Paper_work\\journal-figure-skill-hub",
+      "install_path": "C:\\Users\\wang_\\.codex\\skills\\journal-figure-skill-hub"
+    },
+    {
+      "name": "cn-human-writing-reviewer",
+      "path": "skills/cn-human-writing-reviewer",
+      "source": "E:\\Download\\CN_Human_Writing_Reviewer_SKILL.md",
+      "install_path": "C:\\Users\\wang_\\.codex\\skills\\cn-human-writing-reviewer"
+    },
+    {
+      "name": "lean-execution",
+      "path": "skills/lean-execution",
+      "source": "C:\\Users\\wang_\\Desktop\\lean-execution.md",
+      "install_path": "C:\\Users\\wang_\\.codex\\skills\\lean-execution"
+    }
+  ]
+}

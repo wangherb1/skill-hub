@@ -1,0 +1,9 @@
+standard_vector:
+  formats: ["pdf", "svg", "png"]
+  dpi: 600
+journal_upload:
+  formats: ["pdf", "png", "tiff"]
+  dpi: 600
+editable_review:
+  formats: ["svg", "pptx", "png"]
+  dpi: 300

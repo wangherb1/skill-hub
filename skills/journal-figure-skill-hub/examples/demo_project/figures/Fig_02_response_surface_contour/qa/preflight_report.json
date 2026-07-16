@@ -1,0 +1,16 @@
+{
+  "project": "E:\\Codex\\Paper_work\\journal-figure-skill-hub\\examples\\demo_project\\figures\\Fig_02_response_surface_contour",
+  "checked_at": "2026-06-20T21:57:58",
+  "figure_type": "data_plot_3d",
+  "final_files": [
+    "final\\Fig_02_response_surface_contour.pdf",
+    "final\\Fig_02_response_surface_contour.png",
+    "final\\Fig_02_response_surface_contour.svg"
+  ],
+  "editable_files": [
+    "editable\\Fig_02_response_surface_contour.pptx",
+    "editable\\Fig_02_response_surface_contour.svg"
+  ],
+  "issues": [],
+  "status": "pass"
+}

@@ -1,0 +1,590 @@
+﻿[
+    {
+        "Name":  "abaqus-contact-analysis",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\analysis\\abaqus-contact-analysis",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-contact-analysis"
+    },
+    {
+        "Name":  "abaqus-coupled-analysis",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\analysis\\abaqus-coupled-analysis",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-coupled-analysis"
+    },
+    {
+        "Name":  "abaqus-dynamic-analysis",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\analysis\\abaqus-dynamic-analysis",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-dynamic-analysis"
+    },
+    {
+        "Name":  "abaqus-fatigue-analysis",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\analysis\\abaqus-fatigue-analysis",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-fatigue-analysis"
+    },
+    {
+        "Name":  "abaqus-modal-analysis",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\analysis\\abaqus-modal-analysis",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-modal-analysis"
+    },
+    {
+        "Name":  "abaqus-static-analysis",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\analysis\\abaqus-static-analysis",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-static-analysis"
+    },
+    {
+        "Name":  "abaqus-thermal-analysis",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\analysis\\abaqus-thermal-analysis",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-thermal-analysis"
+    },
+    {
+        "Name":  "abaqus",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\core\\abaqus",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus"
+    },
+    {
+        "Name":  "abaqus-export",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\execution\\abaqus-export",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-export"
+    },
+    {
+        "Name":  "abaqus-job",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\execution\\abaqus-job",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-job"
+    },
+    {
+        "Name":  "abaqus-geometry",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\modeling\\abaqus-geometry",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-geometry"
+    },
+    {
+        "Name":  "abaqus-interaction",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\modeling\\abaqus-interaction",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-interaction"
+    },
+    {
+        "Name":  "abaqus-material",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\modeling\\abaqus-material",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-material"
+    },
+    {
+        "Name":  "abaqus-mesh",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\modeling\\abaqus-mesh",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-mesh"
+    },
+    {
+        "Name":  "abaqus-optimization",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\optimization\\abaqus-optimization",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-optimization"
+    },
+    {
+        "Name":  "abaqus-shape-optimization",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\optimization\\abaqus-shape-optimization",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-shape-optimization"
+    },
+    {
+        "Name":  "abaqus-topology-optimization",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\optimization\\abaqus-topology-optimization",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-topology-optimization"
+    },
+    {
+        "Name":  "abaqus-odb",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\postprocessing\\abaqus-odb",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-odb"
+    },
+    {
+        "Name":  "fea-structural",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\reference\\fea-structural",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\fea-structural"
+    },
+    {
+        "Name":  "fenics-fem",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\reference\\fenics-fem",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\fenics-fem"
+    },
+    {
+        "Name":  "abaqus-amplitude",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\setup\\abaqus-amplitude",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-amplitude"
+    },
+    {
+        "Name":  "abaqus-bc",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\setup\\abaqus-bc",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-bc"
+    },
+    {
+        "Name":  "abaqus-docs",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\setup\\abaqus-docs",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-docs"
+    },
+    {
+        "Name":  "abaqus-field",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\setup\\abaqus-field",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-field"
+    },
+    {
+        "Name":  "abaqus-load",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\setup\\abaqus-load",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-load"
+    },
+    {
+        "Name":  "abaqus-output",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\setup\\abaqus-output",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-output"
+    },
+    {
+        "Name":  "abaqus-step",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Ansys_AI_Agent\\external\\text-to-cae\\Skill\\abaqus\\setup\\abaqus-step",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus-step"
+    },
+    {
+        "Name":  "abaqus_cae_pipeline",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Intelligent Evaluation and Design Optimization of Vibration Seal Reliability for Aerospace High-Pressure Pipeline Connections Intelligent Agent\\skills\\abaqus_cae_pipeline",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\abaqus_cae_pipeline"
+    },
+    {
+        "Name":  "interface_dynamic_degradation",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Intelligent Evaluation and Design Optimization of Vibration Seal Reliability for Aerospace High-Pressure Pipeline Connections Intelligent Agent\\skills\\interface_dynamic_degradation",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\interface_dynamic_degradation"
+    },
+    {
+        "Name":  "reliability_rul_prediction",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Intelligent Evaluation and Design Optimization of Vibration Seal Reliability for Aerospace High-Pressure Pipeline Connections Intelligent Agent\\skills\\reliability_rul_prediction",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\reliability_rul_prediction"
+    },
+    {
+        "Name":  "report_generation",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Intelligent Evaluation and Design Optimization of Vibration Seal Reliability for Aerospace High-Pressure Pipeline Connections Intelligent Agent\\skills\\report_generation",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\report_generation"
+    },
+    {
+        "Name":  "sealing_functional_evaluation",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Intelligent Evaluation and Design Optimization of Vibration Seal Reliability for Aerospace High-Pressure Pipeline Connections Intelligent Agent\\skills\\sealing_functional_evaluation",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\sealing_functional_evaluation"
+    },
+    {
+        "Name":  "structure_assembly_optimization",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Intelligent Evaluation and Design Optimization of Vibration Seal Reliability for Aerospace High-Pressure Pipeline Connections Intelligent Agent\\skills\\structure_assembly_optimization",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\structure_assembly_optimization"
+    },
+    {
+        "Name":  "test_data_processing",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Intelligent Evaluation and Design Optimization of Vibration Seal Reliability for Aerospace High-Pressure Pipeline Connections Intelligent Agent\\skills\\test_data_processing",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\test_data_processing"
+    },
+    {
+        "Name":  "vibration_fatigue_integrity",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Intelligent Evaluation and Design Optimization of Vibration Seal Reliability for Aerospace High-Pressure Pipeline Connections Intelligent Agent\\skills\\vibration_fatigue_integrity",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\vibration_fatigue_integrity"
+    },
+    {
+        "Name":  "journal-figure-skill-hub",
+        "Category":  "already_linked_root",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\journal-figure-skill-hub",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\journal-figure-skill-hub"
+    },
+    {
+        "Name":  "data-plot-2d",
+        "Category":  "skip_nested_subskill",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\journal-figure-skill-hub\\skills\\data-plot-2d",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\data-plot-2d"
+    },
+    {
+        "Name":  "data-plot-3d",
+        "Category":  "skip_nested_subskill",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\journal-figure-skill-hub\\skills\\data-plot-3d",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\data-plot-3d"
+    },
+    {
+        "Name":  "experiment-setup-diagram",
+        "Category":  "skip_nested_subskill",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\journal-figure-skill-hub\\skills\\experiment-setup-diagram",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\experiment-setup-diagram"
+    },
+    {
+        "Name":  "figure-brief-builder",
+        "Category":  "skip_nested_subskill",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\journal-figure-skill-hub\\skills\\figure-brief-builder",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\figure-brief-builder"
+    },
+    {
+        "Name":  "figure-preflight-qa",
+        "Category":  "skip_nested_subskill",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\journal-figure-skill-hub\\skills\\figure-preflight-qa",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\figure-preflight-qa"
+    },
+    {
+        "Name":  "graphical-abstract",
+        "Category":  "skip_nested_subskill",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\journal-figure-skill-hub\\skills\\graphical-abstract",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\graphical-abstract"
+    },
+    {
+        "Name":  "image-annotation-figure",
+        "Category":  "skip_nested_subskill",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\journal-figure-skill-hub\\skills\\image-annotation-figure",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\image-annotation-figure"
+    },
+    {
+        "Name":  "journal-export",
+        "Category":  "skip_nested_subskill",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\journal-figure-skill-hub\\skills\\journal-export",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\journal-export"
+    },
+    {
+        "Name":  "mechanism-diagram",
+        "Category":  "skip_nested_subskill",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\journal-figure-skill-hub\\skills\\mechanism-diagram",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\mechanism-diagram"
+    },
+    {
+        "Name":  "multi-panel-compositor",
+        "Category":  "skip_nested_subskill",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\journal-figure-skill-hub\\skills\\multi-panel-compositor",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\multi-panel-compositor"
+    },
+    {
+        "Name":  "simulation-result-figure",
+        "Category":  "skip_nested_subskill",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\journal-figure-skill-hub\\skills\\simulation-result-figure",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\simulation-result-figure"
+    },
+    {
+        "Name":  "structure-schematic",
+        "Category":  "skip_nested_subskill",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\journal-figure-skill-hub\\skills\\structure-schematic",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\structure-schematic"
+    },
+    {
+        "Name":  "chinese-section-integrated-writer",
+        "Category":  "already_global_or_linked",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\Journal_Paper_Writing_Agent\\.agents\\skills\\chinese-section-integrated-writer",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\chinese-section-integrated-writer"
+    },
+    {
+        "Name":  "data-analysis-reporting",
+        "Category":  "already_global_or_linked",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\Journal_Paper_Writing_Agent\\.agents\\skills\\data-analysis-reporting",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\data-analysis-reporting"
+    },
+    {
+        "Name":  "figure-table-planner",
+        "Category":  "already_global_or_linked",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\Journal_Paper_Writing_Agent\\.agents\\skills\\figure-table-planner",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\figure-table-planner"
+    },
+    {
+        "Name":  "formula-derivation-writing",
+        "Category":  "already_global_or_linked",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\Journal_Paper_Writing_Agent\\.agents\\skills\\formula-derivation-writing",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\formula-derivation-writing"
+    },
+    {
+        "Name":  "literature-download-list-builder",
+        "Category":  "already_global_or_linked",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\Journal_Paper_Writing_Agent\\.agents\\skills\\literature-download-list-builder",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\literature-download-list-builder"
+    },
+    {
+        "Name":  "literature-search-planner",
+        "Category":  "already_global_or_linked",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\Journal_Paper_Writing_Agent\\.agents\\skills\\literature-search-planner",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\literature-search-planner"
+    },
+    {
+        "Name":  "main-body-draft",
+        "Category":  "already_global_or_linked",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\Journal_Paper_Writing_Agent\\.agents\\skills\\main-body-draft",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\main-body-draft"
+    },
+    {
+        "Name":  "manuscript-integrator",
+        "Category":  "already_global_or_linked",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\Journal_Paper_Writing_Agent\\.agents\\skills\\manuscript-integrator",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\manuscript-integrator"
+    },
+    {
+        "Name":  "manuscript-quality-review",
+        "Category":  "already_global_or_linked",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\Journal_Paper_Writing_Agent\\.agents\\skills\\manuscript-quality-review",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\manuscript-quality-review"
+    },
+    {
+        "Name":  "paper-project-director",
+        "Category":  "already_global_or_linked",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\Journal_Paper_Writing_Agent\\.agents\\skills\\paper-project-director",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\paper-project-director"
+    },
+    {
+        "Name":  "reviewer-response-writer",
+        "Category":  "already_global_or_linked",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\Journal_Paper_Writing_Agent\\.agents\\skills\\reviewer-response-writer",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\reviewer-response-writer"
+    },
+    {
+        "Name":  "sci-abstract-title-keywords-writer",
+        "Category":  "already_global_or_linked",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\Journal_Paper_Writing_Agent\\.agents\\skills\\sci-abstract-title-keywords-writer",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\sci-abstract-title-keywords-writer"
+    },
+    {
+        "Name":  "sci-methodology-writer",
+        "Category":  "already_global_or_linked",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\Journal_Paper_Writing_Agent\\.agents\\skills\\sci-methodology-writer",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\sci-methodology-writer"
+    },
+    {
+        "Name":  "sci-results-discussion-writer",
+        "Category":  "already_global_or_linked",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\Journal_Paper_Writing_Agent\\.agents\\skills\\sci-results-discussion-writer",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\sci-results-discussion-writer"
+    },
+    {
+        "Name":  "skill-scout-self-improvement",
+        "Category":  "already_global_or_linked",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\Journal_Paper_Writing_Agent\\.agents\\skills\\skill-scout-self-improvement",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\skill-scout-self-improvement"
+    },
+    {
+        "Name":  "zotero-evidence-matrix",
+        "Category":  "already_global_or_linked",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Paper_work\\Journal_Paper_Writing_Agent\\.agents\\skills\\zotero-evidence-matrix",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\zotero-evidence-matrix"
+    },
+    {
+        "Name":  "stockvaluation-io",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Self_media\\.tmp_investment_repos\\stockvaluation_io\\valuation-agent\\skills\\stockvaluation-io",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\stockvaluation-io"
+    },
+    {
+        "Name":  "tradingview-mcp",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Self_media\\.tmp_investment_repos\\tradingview-mcp\\openclaw",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\tradingview-mcp"
+    },
+    {
+        "Name":  "xhs-note-creator",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Self_media\\skills\\wemedia\\auto-redbook-skills-0.1.0",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\xhs-note-creator"
+    },
+    {
+        "Name":  "xhs-note-creator",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Self_media\\skills\\wemedia\\Auto-Redbook-Skills-main\\Auto-Redbook-Skills-main",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\xhs-note-creator"
+    },
+    {
+        "Name":  "redbook",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Self_media\\skills\\wemedia\\redbook-browser-ops-0.1.1",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\redbook"
+    },
+    {
+        "Name":  "redbook-cards",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Self_media\\skills\\wemedia\\redbook-cards-skill-1.0.0",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\redbook-cards"
+    },
+    {
+        "Name":  "wechat-article-publisher",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Self_media\\skills\\wemedia\\wechat-article-publisher-1.0.0",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\wechat-article-publisher"
+    },
+    {
+        "Name":  "wechat-article-publisher",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Self_media\\skills\\wemedia\\wechat-article-publisher-1.0.0\\2",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\wechat-article-publisher"
+    },
+    {
+        "Name":  "wechat-mp-cn",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Self_media\\skills\\wemedia\\wechat-mp-cn-1.0.0",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\wechat-mp-cn"
+    },
+    {
+        "Name":  "xhs-cover",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Self_media\\skills\\wemedia\\xhs-cover-1.0.3",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\xhs-cover"
+    },
+    {
+        "Name":  "xhs-login",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Self_media\\skills\\wemedia\\xhs-login-0.1.0",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\xhs-login"
+    },
+    {
+        "Name":  "xiaoD-gzh-paper-workflow",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Self_media\\skills\\wemedia\\xiaoD-gzh-paper-workflow",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\xiaoD-gzh-paper-workflow"
+    },
+    {
+        "Name":  "xiaoD-xhs-workflow",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Self_media\\skills\\wemedia\\xiaoD-xhs-workflow",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\xiaoD-xhs-workflow"
+    },
+    {
+        "Name":  "xiaoD-zhizhu-workflow",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Self_media\\skills\\wemedia\\xiaoD-zhizhu-workflow",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\xiaoD-zhizhu-workflow"
+    },
+    {
+        "Name":  "xiaohongshu-mcp",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Self_media\\skills\\wemedia\\xiaohongshu-mcp-1.0.0",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\xiaohongshu-mcp"
+    },
+    {
+        "Name":  "xiaohongshu",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Self_media\\skills\\wemedia\\xiaohongshu-mcp-skills-0.1.0",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\xiaohongshu"
+    },
+    {
+        "Name":  "zhihu",
+        "Category":  "candidate",
+        "Valid":  "invalid",
+        "Dir":  "E:\\Codex\\Self_media\\skills\\wemedia\\zhihu-1.0.1",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\zhihu"
+    },
+    {
+        "Name":  "extract-and-test",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Solidworks_Agent\\.github\\skills\\extract-and-test",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\extract-and-test"
+    },
+    {
+        "Name":  "feature-tree-reconstruction",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Solidworks_Agent\\.github\\skills\\feature-tree-reconstruction",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\feature-tree-reconstruction"
+    },
+    {
+        "Name":  "printer-profile-tolerancing",
+        "Category":  "skip_external_or_repo_meta",
+        "Valid":  "not_checked",
+        "Dir":  "E:\\Codex\\Solidworks_Agent\\.github\\skills\\printer-profile-tolerancing",
+        "GlobalPath":  "C:\\Users\\wang_\\.codex\\skills\\printer-profile-tolerancing"
+    }
+]

@@ -1,0 +1,19 @@
+required_project_files:
+  - figure_spec.json
+required_dirs:
+  - source
+  - code
+  - editable
+  - final
+  - qa
+  - caption
+minimum_png_dpi: 300
+preferred_png_dpi: 600
+require_source_traceability: true
+require_editable_for_line_art: true
+require_bilingual_label_map: true
+chinese_font_required: SimSun
+english_font_required: Times New Roman
+max_normal_font_pt: 10.5
+max_single_large_width_cm: 15.5
+max_two_panel_single_width_cm: 7.5

@@ -1,0 +1,16 @@
+{
+  "project": "E:\\Codex\\Paper_work\\journal-figure-skill-hub\\examples\\demo_project\\figures\\Fig_03_general_mechanism_chain",
+  "checked_at": "2026-06-20T21:57:59",
+  "figure_type": "mechanism_diagram",
+  "final_files": [
+    "final\\Fig_03_general_mechanism_chain.pdf",
+    "final\\Fig_03_general_mechanism_chain.png",
+    "final\\Fig_03_general_mechanism_chain.svg"
+  ],
+  "editable_files": [
+    "editable\\Fig_03_general_mechanism_chain.pptx",
+    "editable\\Fig_03_general_mechanism_chain.svg"
+  ],
+  "issues": [],
+  "status": "pass"
+}

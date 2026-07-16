@@ -1,0 +1,30 @@
+default_single_column:
+  width_mm: 75
+  max_width_cm: 7.5
+  min_font_pt: 7
+  max_font_pt: 10.5
+  raster_dpi: 600
+default_double_column:
+  width_mm: 155
+  max_width_cm: 15.5
+  min_font_pt: 7
+  max_font_pt: 10.5
+  raster_dpi: 600
+word_single_large:
+  width_mm: 155
+  max_width_cm: 15.5
+  min_font_pt: 7
+  max_font_pt: 10.5
+  raster_dpi: 600
+word_two_panel_each:
+  width_mm: 75
+  max_width_cm: 7.5
+  min_font_pt: 7
+  max_font_pt: 10.5
+  raster_dpi: 600
+graphical_abstract_generic:
+  width_mm: 120
+  height_mm: 50
+  min_font_pt: 7
+  max_font_pt: 10.5
+  raster_dpi: 300

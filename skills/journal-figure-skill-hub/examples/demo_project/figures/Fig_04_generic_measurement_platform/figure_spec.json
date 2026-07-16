@@ -1,0 +1,67 @@
+{
+  "figure_id": "Fig_04",
+  "short_name": "generic_measurement_platform",
+  "paper_context": {
+    "title": "",
+    "discipline": "general",
+    "section": "Introduction",
+    "target_journal": "",
+    "core_claim": ""
+  },
+  "figure_type": "experiment_setup_diagram",
+  "scientific_purpose": "Map sample, sensor, DAQ, computer, physical flow, and signal flow.",
+  "reader_takeaway_5s": "Map sample, sensor, DAQ, computer, physical flow, and signal flow.",
+  "panels": [
+    {
+      "panel_id": "a",
+      "title": "",
+      "message": "Map sample, sensor, DAQ, computer, physical flow, and signal flow.",
+      "input_sources": [],
+      "generation_route": "svg",
+      "editable_layers": [
+        "text",
+        "arrows",
+        "shapes"
+      ],
+      "output_files": [
+        "final/Fig_04_generic_measurement_platform.svg",
+        "final/Fig_04_generic_measurement_platform.pdf",
+        "final/Fig_04_generic_measurement_platform.png"
+      ]
+    }
+  ],
+  "data_sources": [],
+  "visual_style": {
+    "width_mm": 180,
+    "height_mm": null,
+    "font_family": "Arial",
+    "font_size_pt": 8,
+    "line_width_pt": 1.0,
+    "color_palette": "colorblind_safe"
+  },
+  "export_targets": [
+    "pdf",
+    "svg",
+    "png_600dpi",
+    "pptx"
+  ],
+  "journal_constraints": {
+    "single_or_double_column": "double",
+    "requires_tiff": false,
+    "requires_eps": false,
+    "max_file_size_mb": null
+  },
+  "ai_usage": {
+    "used_ai_image_generation": false,
+    "usage_scope": "none",
+    "requires_disclosure": false
+  },
+  "qa_requirements": [
+    "resolution_check",
+    "font_check",
+    "axis_label_check",
+    "unit_check",
+    "editable_layer_check",
+    "source_traceability_check"
+  ]
+}

@@ -1,0 +1,4 @@
+hub_name: journal-figure-skill-hub
+default_figure_root: figures
+strict_mode: true
+allow_ai_final_evidence: false

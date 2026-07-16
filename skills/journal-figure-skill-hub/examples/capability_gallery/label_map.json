@@ -1,0 +1,21 @@
+{
+  "policy": {
+    "zh_font": "SimSun/宋体",
+    "en_font": "Times New Roman",
+    "max_font_pt": 10.5,
+    "single_large_width_cm": 15.5,
+    "two_panel_each_width_cm": 7.5
+  },
+  "available_examples": [
+    "01_structure_schematic.png",
+    "02_experiment_setup.png",
+    "03_mechanism_diagram.png",
+    "04_2d_curve_scatter_uncertainty.png",
+    "05_grouped_bar_chart.png",
+    "06_heatmap_contour.png",
+    "07_3d_response_surface.png",
+    "08_simulation_contour_synthetic.png",
+    "09_graphical_abstract.png",
+    "10_image_annotation_synthetic.png"
+  ]
+}

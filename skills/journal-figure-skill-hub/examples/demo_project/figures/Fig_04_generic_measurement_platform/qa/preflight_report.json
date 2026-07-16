@@ -1,0 +1,16 @@
+{
+  "project": "E:\\Codex\\Paper_work\\journal-figure-skill-hub\\examples\\demo_project\\figures\\Fig_04_generic_measurement_platform",
+  "checked_at": "2026-06-20T21:57:59",
+  "figure_type": "experiment_setup_diagram",
+  "final_files": [
+    "final\\Fig_04_generic_measurement_platform.pdf",
+    "final\\Fig_04_generic_measurement_platform.png",
+    "final\\Fig_04_generic_measurement_platform.svg"
+  ],
+  "editable_files": [
+    "editable\\Fig_04_generic_measurement_platform.pptx",
+    "editable\\Fig_04_generic_measurement_platform.svg"
+  ],
+  "issues": [],
+  "status": "pass"
+}

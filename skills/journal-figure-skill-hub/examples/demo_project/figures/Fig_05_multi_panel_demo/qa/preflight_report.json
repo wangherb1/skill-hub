@@ -1,0 +1,16 @@
+{
+  "project": "E:\\Codex\\Paper_work\\journal-figure-skill-hub\\examples\\demo_project\\figures\\Fig_05_multi_panel_demo",
+  "checked_at": "2026-06-20T21:58:00",
+  "figure_type": "multi_panel_composite",
+  "final_files": [
+    "final\\Fig_05_multi_panel_demo.pdf",
+    "final\\Fig_05_multi_panel_demo.png",
+    "final\\Fig_05_multi_panel_demo.svg"
+  ],
+  "editable_files": [
+    "editable\\Fig_05_multi_panel_demo.pptx",
+    "editable\\Fig_05_multi_panel_demo.svg"
+  ],
+  "issues": [],
+  "status": "pass"
+}

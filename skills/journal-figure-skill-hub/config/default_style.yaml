@@ -1,0 +1,14 @@
+font_family: Times New Roman
+english_font_family: Times New Roman
+chinese_font_family: SimSun
+chinese_font_family_cn: 宋体
+font_size_pt: 8
+max_word_size_5_pt: 10.5
+line_width_pt: 1.0
+panel_label_size_pt: 9
+axis_label_size_pt: 8
+tick_label_size_pt: 7
+palette: colorblind_safe
+background: white
+bilingual_ready: true
+label_map_required: true

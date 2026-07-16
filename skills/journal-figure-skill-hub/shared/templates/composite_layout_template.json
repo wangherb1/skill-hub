@@ -1,0 +1,18 @@
+{
+  "width": 1200,
+  "height": 800,
+  "cols": 2,
+  "margin": 50,
+  "panels": [
+    {
+      "label": "(a)",
+      "title": "Panel A",
+      "file": "panel_a.png"
+    },
+    {
+      "label": "(b)",
+      "title": "Panel B",
+      "file": "panel_b.png"
+    }
+  ]
+}

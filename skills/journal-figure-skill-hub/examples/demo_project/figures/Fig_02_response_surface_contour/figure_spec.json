@@ -1,0 +1,69 @@
+{
+  "figure_id": "Fig_02",
+  "short_name": "response_surface_contour",
+  "paper_context": {
+    "title": "",
+    "discipline": "general",
+    "section": "Introduction",
+    "target_journal": "",
+    "core_claim": ""
+  },
+  "figure_type": "data_plot_3d",
+  "scientific_purpose": "Show a synthetic response surface and its clearer 2D contour companion.",
+  "reader_takeaway_5s": "Show a synthetic response surface and its clearer 2D contour companion.",
+  "panels": [
+    {
+      "panel_id": "a",
+      "title": "",
+      "message": "Show a synthetic response surface and its clearer 2D contour companion.",
+      "input_sources": [],
+      "generation_route": "svg",
+      "editable_layers": [
+        "text",
+        "arrows",
+        "shapes"
+      ],
+      "output_files": [
+        "final/Fig_02_response_surface_contour.pdf",
+        "final/Fig_02_response_surface_contour.svg",
+        "final/Fig_02_response_surface_contour.png"
+      ]
+    }
+  ],
+  "data_sources": [
+    "source/surface_data.csv"
+  ],
+  "visual_style": {
+    "width_mm": 180,
+    "height_mm": null,
+    "font_family": "Arial",
+    "font_size_pt": 8,
+    "line_width_pt": 1.0,
+    "color_palette": "colorblind_safe"
+  },
+  "export_targets": [
+    "pdf",
+    "svg",
+    "png_600dpi",
+    "pptx"
+  ],
+  "journal_constraints": {
+    "single_or_double_column": "double",
+    "requires_tiff": false,
+    "requires_eps": false,
+    "max_file_size_mb": null
+  },
+  "ai_usage": {
+    "used_ai_image_generation": false,
+    "usage_scope": "none",
+    "requires_disclosure": false
+  },
+  "qa_requirements": [
+    "resolution_check",
+    "font_check",
+    "axis_label_check",
+    "unit_check",
+    "editable_layer_check",
+    "source_traceability_check"
+  ]
+}

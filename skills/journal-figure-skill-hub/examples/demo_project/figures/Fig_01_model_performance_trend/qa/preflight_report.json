@@ -1,0 +1,16 @@
+{
+  "project": "E:\\Codex\\Paper_work\\journal-figure-skill-hub\\examples\\demo_project\\figures\\Fig_01_model_performance_trend",
+  "checked_at": "2026-06-20T21:57:56",
+  "figure_type": "data_plot_2d",
+  "final_files": [
+    "final\\Fig_01_model_performance_trend.pdf",
+    "final\\Fig_01_model_performance_trend.png",
+    "final\\Fig_01_model_performance_trend.svg"
+  ],
+  "editable_files": [
+    "editable\\Fig_01_model_performance_trend.pptx",
+    "editable\\Fig_01_model_performance_trend.svg"
+  ],
+  "issues": [],
+  "status": "pass"
+}

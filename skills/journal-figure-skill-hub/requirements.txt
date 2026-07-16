@@ -1,0 +1,16 @@
+matplotlib
+numpy
+pandas
+scipy
+scikit-learn
+pillow
+pyyaml
+jsonschema
+python-pptx
+plotly
+kaleido
+cairosvg
+drawsvg
+lxml
+opencv-python
+pytest

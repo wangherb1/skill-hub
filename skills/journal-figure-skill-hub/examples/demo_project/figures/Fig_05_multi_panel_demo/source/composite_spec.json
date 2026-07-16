@@ -1,0 +1,28 @@
+{
+  "width": 1400,
+  "height": 900,
+  "cols": 2,
+  "margin": 60,
+  "panels": [
+    {
+      "label": "(a)",
+      "title": "Fig_01_model_performance_trend",
+      "file": "E:/Codex/Paper_work/journal-figure-skill-hub/examples/demo_project/figures/Fig_01_model_performance_trend/final/Fig_01_model_performance_trend.png"
+    },
+    {
+      "label": "(b)",
+      "title": "Fig_02_response_surface_contour",
+      "file": "E:/Codex/Paper_work/journal-figure-skill-hub/examples/demo_project/figures/Fig_02_response_surface_contour/final/Fig_02_response_surface_contour.png"
+    },
+    {
+      "label": "(c)",
+      "title": "Fig_03_general_mechanism_chain",
+      "file": "E:/Codex/Paper_work/journal-figure-skill-hub/examples/demo_project/figures/Fig_03_general_mechanism_chain/final/Fig_03_general_mechanism_chain.png"
+    },
+    {
+      "label": "(d)",
+      "title": "Fig_04_generic_measurement_platform",
+      "file": "E:/Codex/Paper_work/journal-figure-skill-hub/examples/demo_project/figures/Fig_04_generic_measurement_platform/final/Fig_04_generic_measurement_platform.png"
+    }
+  ]
+}
